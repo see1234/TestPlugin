@@ -41,7 +41,7 @@ public class MobOcelot extends EntityMonster  {
         LivingEntity entity = (LivingEntity) this.getBukkitEntity();
         entity.setRemoveWhenFarAway(false);
         Random r = new Random();
-        String text = "ΰαβγδεΈζηθικλμνξοπρςστυφχϊϋόύώÿ";
+        String text = "Π°Π±Π²Π³Π΄ΠµΡ‘Π¶Π·ΠΈΠΉΠΊΠ»ΠΌΠ½ΠΎΠΏΡ€ΡΡ‚ΡƒΡ„Ρ…Ρ†Ρ‡ΡΡ‹ΡΡΡΡ";
         String text1 = "0123456789";
         String sum = text + text.toUpperCase() + text1;
         int i = 0;
