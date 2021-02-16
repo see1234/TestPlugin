@@ -1,0 +1,4 @@
+name: TestPlugin
+main: me.test.plugin.Main
+author: see1
+version: 1.0
